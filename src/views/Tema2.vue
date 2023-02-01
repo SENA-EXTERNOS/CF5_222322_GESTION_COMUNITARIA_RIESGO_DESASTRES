@@ -27,56 +27,56 @@
     .row.container.justify-content-around.align-items-center 
 
 
-      p Teniendo en cuenta lo presentado previamente, existen cuatro principios básicos que se deben cumplir a cabalidad para que la ayuda humanitaria se desarrolle de manera adecuada: 
+      p.mb-5 Teniendo en cuenta lo presentado previamente, existen cuatro principios básicos que se deben cumplir a cabalidad para que la ayuda humanitaria se desarrolle de manera adecuada: 
 
       SlyderF(columnas="col-lg-6 col-xl-4")
-          .tarjeta.tarjetas-carrusel.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/imagen-imparcialidad-tema2.png' alt='AvatarTop')
-            h2.text-center Imparcialidad:
-            p.text-center Las ayudas humanitarias se deben adelantar dando prioridad a los casos que más presenten urgencia, en donde no existe la discriminación por raza, sexo, creencias religiosas, nacionalidad ni ninguna otra característica que pueda ser motivo de distinción. 
-            //p.texto-invisible Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia sapiente quis tenetur laboriosam magni voluptates cumque quia quibusdam ratione dicta? Dignissimos exercitationem aperiam eius illum iure cupiditate error aspernatur molestiae?
+        .tarjeta.tarjetas-carrusel.color-primario.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/temas/imagen-imparcialidad-tema2.png' alt='AvatarTop')
+          h2.text-center Imparcialidad:
+          p.text-center Las ayudas humanitarias se deben adelantar dando prioridad a los casos que más presenten urgencia, en donde no existe la discriminación por raza, sexo, creencias religiosas, nacionalidad ni ninguna otra característica que pueda ser motivo de distinción. 
+          //p.texto-invisible Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia sapiente quis tenetur laboriosam magni voluptates cumque quia quibusdam ratione dicta? Dignissimos exercitationem aperiam eius illum iure cupiditate error aspernatur molestiae?
 
-          .tarjeta.tarjetas-carrusel.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/imagen-humanidad-tema2.png' alt='AvatarTop')
-            h2.text-center Humanidad:
-            p.text-center Su principal objetivo es proteger la salud y la vida de las personas afectadas garantizando el respeto de los seres humanos, por lo que el sufrimiento humano siempre debe ser una prioridad y atenderlo sin importar el lugar en el que se encuentre.
-            
-          .tarjeta.tarjetas-carrusel.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/imagen-ind-oper-tema2.png' alt='AvatarTop')
-            h2.text-center Independencia operativa:
-            p.text-center Las ayudas se deben realizar de manera autónoma y ajena a cualquier fin económico, político o cualquier otro que pretenda lucrarse con estas acciones. 
-            p.texto-invisible Lorem, ipsum dolor 
+        .tarjeta.tarjetas-carrusel.color-primario.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/temas/imagen-humanidad-tema2.png' alt='AvatarTop')
+          h2.text-center Humanidad:
+          p.text-center Su principal objetivo es proteger la salud y la vida de las personas afectadas garantizando el respeto de los seres humanos, por lo que el sufrimiento humano siempre debe ser una prioridad y atenderlo sin importar el lugar en el que se encuentre.
           
+        .tarjeta.tarjetas-carrusel.color-primario.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/temas/imagen-ind-oper-tema2.png' alt='AvatarTop')
+          h2.text-center Independencia operativa:
+          p.text-center Las ayudas se deben realizar de manera autónoma y ajena a cualquier fin económico, político o cualquier otro que pretenda lucrarse con estas acciones. 
+          p.texto-invisible Lorem, ipsum dolor 
+        
 
-          .tarjeta.tarjetas-carrusel.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/imagen-neutralidad-tema2.png' alt='AvatarTop')
-            h2.text-center Neutralidad:
-            p.text-center Los participantes de la ayuda humanitaria no deberán hacer parte de las hostilidades que puedan presentarse por controversias de índole religioso, racial, ideológico o político.
-            p.texto-invisible Lorem, ipsum dolor 
+        .tarjeta.tarjetas-carrusel.color-primario.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/temas/imagen-neutralidad-tema2.png' alt='AvatarTop')
+          h2.text-center Neutralidad:
+          p.text-center Los participantes de la ayuda humanitaria no deberán hacer parte de las hostilidades que puedan presentarse por controversias de índole religioso, racial, ideológico o político.
+          p.texto-invisible Lorem, ipsum dolor 
 
-          .tarjeta.tarjetas-carrusel.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/imagen-voluntariado-tema2.png' alt='AvatarTop')
-            h2.text-center Voluntariedad:
-            p.text-center Los ciudadanos pueden ofrecerse como voluntarios a organizaciones que lo requieran y así apoyar en la ejecución de diferentes labores que sean necesarias.
-            p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            
-          .tarjeta.tarjetas-carrusel.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/imagen-donaciones-tema2.png' alt='AvatarTop')
-            h2.text-center Donaciones:
-            p.text-center Las personas que quieran apoyar y aportar a las ayudas humanitarias pueden realizar donaciones a fundaciones sin ánimo de lucro.
-            p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, corrupti beatae. 
+        .tarjeta.tarjetas-carrusel.color-primario.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/temas/imagen-voluntariado-tema2.png' alt='AvatarTop')
+          h2.text-center Voluntariedad:
+          p.text-center Los ciudadanos pueden ofrecerse como voluntarios a organizaciones que lo requieran y así apoyar en la ejecución de diferentes labores que sean necesarias.
+          p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          
+        .tarjeta.tarjetas-carrusel.color-primario.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/temas/imagen-donaciones-tema2.png' alt='AvatarTop')
+          h2.text-center Donaciones:
+          p.text-center Las personas que quieran apoyar y aportar a las ayudas humanitarias pueden realizar donaciones a fundaciones sin ánimo de lucro.
+          p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, corrupti beatae. 
     
     separador          
 
@@ -86,9 +86,7 @@
 
     .row.container.justify-content-around.align-items-center 
 
-      #tipos-de-ayuda-humanitaria
-      .titulo-segundo.color-acento-contenido
-        h2 2.1.  Tipos de ayuda humanitaria
+      h3 Tipos de ayuda humanitaria
       
       p Las ayudas humanitarias se pueden clasificar según el tipo de atención necesaria y el tipo de ayuda. Por consiguiente se explicará cada una de ellas: 
 
@@ -124,23 +122,17 @@
 
     .row.container.justify-content-around.align-items-center 
 
-        #ayuda-humanitaria-de-emergencias
-        .titulo-segundo.color-acento-contenido
-          h2 2.2. Ayuda Humanitaria de Emergencias
+        h3.mb-5 Ayuda Humanitaria de Emergencias (AHE)
+      
+        .row.tarjeta.fondo-color-tar-ayuda-human-emergencias.justify-content-center.align-items-center.p-4
 
-        figure  
-              img(src="@/assets/curso/temas/imagen-fondo-tar-ayuda-human.png", alt="alt").imagen-fondo-ayuda-human
-        
-        .row.tarjeta.fondo-color-tar-ayuda-human-emergencias.p-4
+          .col-lg-8.my-3(data-aos="fade-left")
+            p.text-white Tiene como principal objetivo el desarrollo de acciones encaminadas hacia el manejo de desastres, permitiendo proteger y atender de manera oportuna las necesidades de las personas que fueron afectadas por la emergencia, en cuanto a los procesos de asistencia humanitaria en situaciones básicas. Esta ayuda prestará las atenciones de salud y psicología que se necesiten en donde se protegerá la dignidad humana de las comunidades que fueron afectadas. 
+            p.text-white.mb-0 Las instituciones que se dediquen a prestar ayudas humanitarias, tienen la de finalidad de facilitar el proceso de respuesta humanitaria, asegurando que sea rápida y eficaz, en donde se cumplan con los estándares mínimos humanitarios y que se dé respuesta a las necesidades particulares de mujeres, hombres y niños por igual, respetando por encima de cualquier cosa los Derechos Humanos en donde se incluya a la comunidad receptora de la ayuda humanitaria.
 
-          .col-lg-8(data-aos="fade-left")
-            p.texto-color-tar-ayuda-human-emergencias Tiene como principal objetivo el desarrollo de acciones encaminadas hacia el manejo de desastres, permitiendo proteger y atender de manera oportuna las necesidades de las personas que fueron afectadas por la emergencia, en cuanto a los procesos de asistencia humanitaria en situaciones básicas. Esta ayuda prestará las atenciones de salud y psicología que se necesiten en donde se protegerá la dignidad humana de las comunidades que fueron afectadas. 
-            p.texto-color-tar-ayuda-human-emergencias Las instituciones que se dediquen a prestar ayudas humanitarias, tienen la de finalidad de facilitar el proceso de respuesta humanitaria, asegurando que sea rápida y eficaz, en donde se cumplan con los estándares mínimos humanitarios y que se dé respuesta a las necesidades particulares de mujeres, hombres y niños por igual, respetando por encima de cualquier cosa los Derechos Humanos en donde se incluya a la comunidad receptora de la ayuda humanitaria.
+          .col-lg-4.my-3
+            img.img-a.img-t(data-aos="fade-down-right")(src="@/assets/curso/temas/imagen-ayuda-human.png", alt="alt")
 
-          .col-lg-4
-            figure  
-              img(data-aos="fade-down-right")(src="@/assets/curso/temas/imagen-ayuda-human.png", alt="alt").imagen-tar-ayuda-human-emergencias
-            p.texto-invisible Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas consequatur aut dolor tempora architecto dolore quos, aliquam voluptatum at! Consequuntur modi excepturi iure 
 
             
 </template>

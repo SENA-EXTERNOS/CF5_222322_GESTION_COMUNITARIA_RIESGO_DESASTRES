@@ -4,14 +4,14 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
 
-    p A continuación, se presenta un mapa mental en donde podrá encontrar los contenidos trabajados en el componente formativo de manera grafica. 
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo: 
     
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/imagen-sintesis.png", alt="alt").img-sintesis
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis cf5.pdf')" target="_blank")
+        a.anexo.mt-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

@@ -43,20 +43,6 @@ export default {
         numero: '1',
         titulo: 'Evaluación de incidentes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Procedimientos',
-            hash: 'procedimientos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Evaluación de daños',
-            hash: 'evaluacion-de-danos',
-          },
-        ],
       },
 
       {
@@ -65,62 +51,20 @@ export default {
         numero: '2',
         titulo: 'Ayudas Humanitarias',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipos',
-            hash: 'tipos-de-ayuda-humanitaria',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'AHE',
-            hash: 'ayuda-humanitaria-de-emergencias',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Puestos de mando',
+        titulo: 'Puestos de mando unificado - PMU',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Características',
-            hash: 'caracteristicas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Flexibilidad',
-            hash: 'flexibilidad-de-los-puestos-de-mando-unificado-PMU',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Herramientas',
+        titulo: 'Herramientas para respuesta a emergencias',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Criterios de operación',
-            hash: 'criterios-de-operacion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Manuales',
-            hash: 'manuales',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -165,32 +109,32 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estándares Humanitarios',
+      tema: 'Ayudas humanitarias',
       referencia:
-        'Ministerio de Salud. 2016. Guía Estándares Mínimos Humanitarios en Salud. Recuperado el 13/09/2022.',
+        'Ministerio de Salud. (2016). <i>Guía Estándares Mínimos Humanitarios en Salud</i>.',
       tipo: 'Guia',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/GT/guia-estandares-minimos-humanitarios-salud.pdf',
     },
     {
-      tema: 'Kit de emergencias',
+      tema: 'Herramientas para respuestas a emergencias',
       referencia:
-        'NC State Extension. 2021. Kit de Emergencia Familiar | Preparación para Desastres Naturales o Emergencias. YouTube. Recuperado el 21/10/2022.',
+        'NC State Extension. (2021). <i>Kit de Emergencia Familiar | Preparación para Desastres Naturales o Emergencias</i>.',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=ljnRIz7HjgI',
     },
     {
       tema: 'Ayudas humanitarias',
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres – Colombia. Estandarización de Ayuda Humanitaria de Colombia. Recuperado el 21/10/2022.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres – Colombia. (s.f.). <i>Estandarización de Ayuda Humanitaria de Colombia</i>.',
       tipo: 'Guía',
       link:
         'https://portal.gestiondelriesgo.gov.co/Documents/Manuales/Manual_de_Estandarizacion_AHE_de_Colombia.pdf',
     },
     {
-      tema: 'Señales seguridad',
+      tema: 'Puestos de mando unificado',
       referencia:
-        'Miss Lucero. Señales de Seguridad | Señales que salvan vidas | Miss Lucero. YouTube. 2020. Recuperado el 21/10/2022.',
+        'Miss Lucero. (2020). Señales de Seguridad | Señales que salvan vidas | Miss Lucero.',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=SfApd0UrRos',
     },
@@ -246,25 +190,25 @@ export default {
   referencias: [
     {
       referencia:
-        'Agencia Nacional de Minería. Zipaquirá junio 5 de 2014. Sistema de Comando de Incidentes. Tomado de internet el 12/09/2022',
+        'Agencia Nacional de Minería. (2014). <i>Sistema de Comando de Incidentes</i>. ',
       link:
         'https://www.anm.gov.co/sites/default/files/DocumentosAnm/sci_edgyflorez.pdf',
     },
     {
       referencia:
-        'Alfaro, M.L (2016). US AID. Guía para orientar la implementación de un sistema de comando de incidentes en Latinoamérica y el caribe. Tomado de internet el 10/09/2022. ',
+        'Alfaro, M. L. (2016). <i>US AID. Guía para orientar la implementación de un sistema de comando de incidentes en Latinoamérica y el caribe</i>.',
       link:
         'https://www.gob.mx/cms/uploads/attachment/file/724025/33_USAID_GOISCILC_2016_21.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud. 2016. Guía Estándares Mínimos Humanitarios en Salud. Tomado de internet el 13/09/2022.',
+        'Ministerio de Salud. (2016). <i>Guía Estándares Mínimos Humanitarios en Salud.</i>',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/GT/guia-estandares-minimos-humanitarios-salud.pdf',
     },
     {
       referencia:
-        'Organización Panamericana de la Salud. 2010. Evaluación de daños y analisis de necesidades de salud en situaciones de desastre. Tomado de internet el 11/09/2022.',
+        'Organización Panamericana de la Salud. (2010). <i>Evaluación de daños y analisis de necesidades de salud en situaciones de desastre.</i>',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/711/ER_EDAN.pdf?sequence=1&isAllowed=y',
     },

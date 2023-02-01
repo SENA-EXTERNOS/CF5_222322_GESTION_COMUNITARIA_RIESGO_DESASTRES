@@ -5,21 +5,21 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Puestos de mando - PMU
+      h1 Puestos de Mando Unificado - PMU
 
     .row.container.justify-content-around.align-items-center 
 
-      .row.tarjeta.color-fondo-tar1-tema3.p-4
+      .row.justify-content-center.align-items-center.tarjeta.color-fondo-tar1-tema3.p-4
         figure
             img(src='@/assets/curso/temas/imagen-fondo-tar1-tema3.png' alt='AvatarTop').imagen-fondo-tar1-tema3
 
-        .col-lg-5
+        .col-lg-5.my-3
           figure
             img(src='@/assets/curso/temas/imagen1-tema3.png' alt='AvatarTop').imagen-tar1-tema3
 
-        .col-lg-7
-          p.texto-fondo-tar1-tema3 El Puesto de Mando Unificado - PMU es un lugar físico definido bajo ciertas características el cual ejerce la función de mando dentro de un evento de emergencia. Es allí donde se concentra y coordina los diferentes asuntos operacionales que conciernen a un incidente o evento determinado. 
-          p.texto-fondo-tar1-tema3 Los PMU están conformados por personal que cuenta con injerencia operativa los cuales se despliegan en un mismo territorio dependiendo de la cantidad y la complejidad de los eventos que ocurran. En estos puestos de mando es donde se toman las decisiones operacionales sobre cómo manejar las ayudas humanitarias y las acciones para prevenir próximos eventos catastróficos. 
+        .col-lg-7.my-3
+          p.text-white El Puesto de Mando Unificado - PMU es un lugar físico definido bajo ciertas características el cual ejerce la función de mando dentro de un evento de emergencia. Es allí donde se concentra y coordina los diferentes asuntos operacionales que conciernen a un incidente o evento determinado. 
+          p.text-white.mb-0 Los PMU están conformados por personal que cuenta con injerencia operativa los cuales se despliegan en un mismo territorio dependiendo de la cantidad y la complejidad de los eventos que ocurran. En estos puestos de mando es donde se toman las decisiones operacionales sobre cómo manejar las ayudas humanitarias y las acciones para prevenir próximos eventos catastróficos. 
 
     br
     br
@@ -43,11 +43,9 @@
     .row.container.justify-content-around.align-items-center 
 
     
-        #caracteristicas
-        .titulo-segundo.color-acento-contenido
-          h2 3.1. Características
+        h3.mb-4 Características de los Puestos de Mando Unificados (PMU)
         
-        p Teniendo en cuenta lo explicado hace un momento, ahora se describen las funciones y características específicas que tienen los Puestos de Mando Unificado PMU:  
+        p Teniendo en cuenta lo desarrollado hasta ahora, conozca las funciones y características específicas que tienen los Puestos de Mando Unificado PMU, que se describen a continuación:
 
         
       
@@ -119,19 +117,16 @@
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/imagen-acordeon-caracteristicas.png", alt="alt").img400.m-auto
     
-    separador
-
-    .row.container.justify-content-around.align-items-center 
+    .row.container.justify-content-around.align-items-center.mb-5 
         
-      #flexibilidad-de-los-puestos-de-mando-unificado-PMU
-      .titulo-segundo.color-acento-contenido
-        h2 3.2. Flexibilidad de los Puestos de Mando Unificado - PMU
+      h3.mb-4 Flexibilidad de los PMU
 
       .row.fondo-tarjeta-final-tema3
         p Son objetos flexibles, en donde en relación con cada tipo de situación, se privilegia que las entidades que tengan una mayor capacidad operacional y experticia sean las que tomen el mando de las operaciones en una situación de emergencia. 
         p.texto-verde-pmu La flexibilidad permite que se establezcan diferentes estrategias de acuerdo a las necesidades de la situación de emergencia, ya que todas son diferentes, y si bien algunos casos son similares, los costos y el número de víctimas siempre varía. En ciertos casos donde los daños son mínimos o no se vieron afectadas vidas humanas ni sus pertenencias, se pueden utilizar patrones diseñados específicamente para estas situaciones, en donde ya se establecen las acciones que se deben tomar, lo cual facilita el procesamiento de información y comunicación hacia las autoridades pertinentes y medios de comunicación. 
-        p El mando del PMU debe estar ejercido por una persona que cuente con la respectiva competencia legal, institucional, jerárquica o técnica el cual tendrá unas responsabilidades particulares las cuales se referencian a continuación: 
-
+        p El mando del PMU debe estar ejercido por una persona que posea la respectiva competencia legal, institucional, jerárquica o técnica; esta persona tendrá unas responsabilidades particulares, las cuales se referencian a continuación: 
+        .titulo-sexto.color-acento-contenido.titulo-figura-tema2.mt-5
+          p.mb-0 <b>Figura 1</b><br> <em>Responsabilidades en el Puesto de Mando Unificado</em>
         .row
           figure
                 img(src="@/assets/curso/temas/img-lat-izq-PMU-tema3.png", alt="alt").img-lat-izq-PMU-tema3
@@ -139,19 +134,11 @@
           .col-lg-12
             figure(data-aos="zoom-out")
                 img(src="@/assets/curso/temas/diagrama-pmu-tema3.png", alt="alt").img-diagrama-pmu-tema3
-            
 
-    br
-    br
-    br
-    br
-
-    .row.container.justify-content-around.align-items-center
-
-        .row
-          .col-lg-10
-              figure(data-aos="flip-up")
-                  img(src="@/assets/curso/temas/img-final-tema3.png", alt="alt").img-final-tema3.tarjeta.fondo-img-final-tema3
+    P.pt-5 En relación con el lugar donde se establezca un puesto de mando unificado, cabe decir que este deberá cumplir con algunos criterios importantes como:
+    .row.justify-content-center.align-items-center.mt-5           
+      .col-lg-10      
+        img.img-a.img-t(data-aos="flip-up")(src="@/assets/curso/temas/1.png", alt="alt")
           
 
 
