@@ -28,7 +28,7 @@
 
       .row.container.justify-content-around.align-items-center
 
-        .tarjeta.fondo-slider-tema4.p-4
+        .tarjeta.fondo-slider-tema4.p-4.pt-5
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-start
                 .col-md-5.mb-4.mb-md-0
@@ -38,9 +38,9 @@
                   .cajon.color-acento-botones.p-3
                     p Las maletas deben ser ubicadas en lugares con fácil acceso, caso que en una emergencia el tiempo de acción es reducido. Además, no debe haber objetos en los bolsillos externos que se puedan caer. No se recomienda que sobresalgan cosas hacia arriba ni hacia los costados pues puede obstruir el paso. 
                     p.mb-0 De ser posible se recomienda que el material del que está hecha la maleta sea impermeable, para que mantenga todas las pertenencias secas en caso de estar en contacto con el agua.
-                  br
-                  p.texto-slider-tema4 Existen maletines que cuentan con broches en la zona delantera en donde queda mejor asegurado. Así mismo, hay algunos que cuentan con sistema “Camelbak” en donde si tiene un compartimiento con agua y una manguera que sale para beber directamente. 
+
                 .col-md-6
+                  p.texto-slider-tema4.mb-4 Existen maletines que cuentan con broches en la zona delantera en donde queda mejor asegurado. Así mismo, hay algunos que cuentan con sistema “Camelbak” en donde si tiene un compartimiento con agua y una manguera que sale para beber directamente.                 
                   figure
                     img(src='@/assets/curso/temas/img1-slider-tema4.png', alt='').imagenes-slider-tema4
                     //figcaption Leyenda de la imagen
