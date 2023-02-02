@@ -201,7 +201,7 @@
               img(src="@/assets/curso/temas/imagen-tomado-de-tema1.png", alt="alt").imagen-tomado-de-tema1
 
    
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around.align-items-center.mt-5
 
         .row.fondo-tarjeta-inferior-acordeon-tema1.tarjeta.p-4
           figure
@@ -211,8 +211,7 @@
             figure
                 img(data-aos="fade-down-left")(src="@/assets/curso/temas/imagen-tarjeta-inf-acordeon-tema1.png", alt="alt")
           
-          .col-lg-8
-            
+          .col-lg-8           
           
             p(data-aos="fade-right").texto-tarjeta-inferior-acordeon-tema1 La estructura modular del Sistema de Comandos de Incidentes se desarrolla basado en su magnitud, su tipo y su complejidad, ya que se va ajustando según las características de cada situación de emergencia y la cantidad de recursos que sean necesarios para atenderla. La actuación y responsabilidad inicia estando a cargo del comandante del incidente, si esta persona puede controlar la seguridad, operaciones, planeamiento y logística del incidente, no es necesario la delegación de tareas a otro personal. 
 
