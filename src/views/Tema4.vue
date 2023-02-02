@@ -33,11 +33,11 @@
               .row.justify-content-center.align-items-start
                 .col-md-5.mb-4.mb-md-0
                   h4.texto-slider-tema4 Maletín
-                  p.texto-slider-tema4 Puede ser del tamaño que se requiera con la condición de que en se contengan todos los diferentes elementos que se necesitarán. El kit de emergencias en caso de ser necesario, puede distribuirse varios maletines, asunto que dependerá del número de personas de cada familia. Se debe tener en cuenta que una emergencia puede ocurrir en cualquier instante y por lo tanto las mujeres y niños necesitan estar en capacidad de cargar el maletín fácilmente. 
+                  p.texto-slider-tema4.mb-5 Puede ser del tamaño que se requiera con la condición de que en se contengan todos los diferentes elementos que se necesitarán. El kit de emergencias en caso de ser necesario, puede distribuirse varios maletines, asunto que dependerá del número de personas de cada familia. Se debe tener en cuenta que una emergencia puede ocurrir en cualquier instante y por lo tanto las mujeres y niños necesitan estar en capacidad de cargar el maletín fácilmente. 
 
                   .cajon.color-acento-botones.p-3
                     p Las maletas deben ser ubicadas en lugares con fácil acceso, caso que en una emergencia el tiempo de acción es reducido. Además, no debe haber objetos en los bolsillos externos que se puedan caer. No se recomienda que sobresalgan cosas hacia arriba ni hacia los costados pues puede obstruir el paso. 
-                    p De ser posible se recomienda que el material del que está hecha la maleta sea impermeable, para que mantenga todas las pertenencias secas en caso de estar en contacto con el agua.
+                    p.mb-0 De ser posible se recomienda que el material del que está hecha la maleta sea impermeable, para que mantenga todas las pertenencias secas en caso de estar en contacto con el agua.
                   br
                   p.texto-slider-tema4 Existen maletines que cuentan con broches en la zona delantera en donde queda mejor asegurado. Así mismo, hay algunos que cuentan con sistema “Camelbak” en donde si tiene un compartimiento con agua y una manguera que sale para beber directamente. 
                 .col-md-6

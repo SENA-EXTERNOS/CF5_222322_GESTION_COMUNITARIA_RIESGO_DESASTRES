@@ -247,7 +247,7 @@
             .col-8
               img(src='@/assets/curso/temas/imagen3-carrusel-tarjetas.png' alt='AvatarTop')
           h2.text-center Fuerza de tarea:
-          p.text-center Es la combinación entre los recursos simples que se encuentran dentro del área de control, los cuales pueden ser de diferente clase que estén constituidas para una necesidad especifica. Cuenta con un líder y un equipo de comunicaciones
+          p.text-center Es la combinación entre los recursos simples que se encuentran dentro del área de control, los cuales pueden ser de diferente clase que estén constituidas para una necesidad especifica. Cuenta con un líder y un equipo de comunicaciones.
           p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, corrupti beatae. Nostrum quo molestiae, iure quisquam voluptatibus nemo ut nulla culpa, hic quae natus nam numquam. iure cupiditate error 
          
 
