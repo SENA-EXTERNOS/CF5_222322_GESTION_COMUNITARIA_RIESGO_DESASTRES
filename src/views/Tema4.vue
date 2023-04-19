@@ -276,7 +276,7 @@
         p.mb-5 La operación del puesto de mando unificado, para la atención de emergencias, demanda unos criterios concretos que no solo favorecerán la aplicación de acciones correctas, sino que garantizan sistematicidad de las mismas. El siguiente video, muestra los aspectos más importantes a tener en cuenta, en lo relacionado con los criterios de la operación:
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/lrURhjr_Los" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
       
       .row.container.justify-content-around.align-items-center.mt-5 
