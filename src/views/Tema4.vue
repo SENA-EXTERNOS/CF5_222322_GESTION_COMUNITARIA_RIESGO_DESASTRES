@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
-        h1 4.	Herramientas para respuesta a emergencias
+        h1 Herramientas para respuesta a emergencias
         
       .row.container.justify-content-around.align-items-center
         .row
