@@ -209,8 +209,6 @@ export default {
     {
       referencia:
         'Organización Panamericana de la Salud. (2010). <i>Evaluación de daños y analisis de necesidades de salud en situaciones de desastre.</i>',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/711/ER_EDAN.pdf?sequence=1&isAllowed=y',
     },
   ],
   creditos: {
