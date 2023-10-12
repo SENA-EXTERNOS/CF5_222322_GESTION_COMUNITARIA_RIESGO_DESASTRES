@@ -112,7 +112,7 @@ export default {
       tema: 'Ayudas humanitarias',
       referencia:
         'Ministerio de Salud. (2016). <i>Guía Estándares Mínimos Humanitarios en Salud</i>.',
-      tipo: 'Guia',
+      tipo: 'Guía',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/GT/guia-estandares-minimos-humanitarios-salud.pdf',
     },
@@ -134,7 +134,7 @@ export default {
     {
       tema: 'Puestos de mando unificado',
       referencia:
-        'Miss Lucero. (2020). Señales de Seguridad | Señales que salvan vidas | Miss Lucero.',
+        'Miss Lucero. (2020). <em>Señales de Seguridad | Señales que salvan vidas | Miss Lucero.</em>',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=SfApd0UrRos',
     },
@@ -208,7 +208,7 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de la Salud. (2010). <i>Evaluación de daños y analisis de necesidades de salud en situaciones de desastre.</i>',
+        'Organización Panamericana de la Salud. (2010). <i>Evaluación de daños y análisis de necesidades de salud en situaciones de desastre.</i>',
     },
   ],
   creditos: {

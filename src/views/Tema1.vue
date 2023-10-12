@@ -68,7 +68,7 @@
                     img(src='@/assets/curso/temas/imagen-tar-avatar2.png', alt='').imagenes-tar-avatar
 
               //h3.text-center Intuition important
-              p.mt-5.texto-fila1-tar-avatar-tema1 Para que el manejo de un incidente se desarrolle con éxito, es necesario contar con una estructura bien definida la cual está basada en procedimientos estandarizados de operación, sea practica rutinariamente y se pueda utilizar en todos los tipos de incidentes.
+              p.mt-5.texto-fila1-tar-avatar-tema1 Para que el manejo de un incidente se desarrolle con éxito, es necesario contar con una estructura bien definida la cual está basada en procedimientos estandarizados de operación, sea práctica rutinariamente y se pueda utilizar en todos los tipos de incidentes.
 
           .col-sm-7.col-lg-4.mb-5.mb-lg-0
             .tarjeta--boton.color-acento-contenido.text-white--hover.p-4
@@ -78,7 +78,7 @@
                     img(src='@/assets/curso/temas/imagen-tar-avatar3.png', alt='').imagenes-tar-avatar
 
               //h3.text-center Intuition important
-              p.mt-5.texto-fila1-tar-avatar-tema1 Es una organización estructurada la cual consiste en la combinación de instalaciones, equipamiento, personal, Administra de manera equitativa los recursos asignados para lograr el cumplimiento de los objetivos pertinentes de respuesta a un evento o incidente.
+              p.mt-5.texto-fila1-tar-avatar-tema1 Es una organización estructurada la cual consiste en la combinación de instalaciones, equipamiento, personal. Administra de manera equitativa los recursos asignados para lograr el cumplimiento de los objetivos pertinentes de respuesta a un evento o incidente.
               
         .row.fila2-tar-avatar-tema1
           .col-sm-7.col-lg-4.mb-5.mb-lg-0

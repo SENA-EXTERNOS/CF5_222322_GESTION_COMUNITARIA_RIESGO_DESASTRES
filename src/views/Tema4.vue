@@ -33,14 +33,14 @@
               .row.justify-content-center.align-items-start
                 .col-md-5.mb-4.mb-md-0
                   h4.texto-slider-tema4 Maletín
-                  p.texto-slider-tema4.mb-5 Puede ser del tamaño que se requiera con la condición de que en se contengan todos los diferentes elementos que se necesitarán. El kit de emergencias en caso de ser necesario, puede distribuirse varios maletines, asunto que dependerá del número de personas de cada familia. Se debe tener en cuenta que una emergencia puede ocurrir en cualquier instante y por lo tanto las mujeres y niños necesitan estar en capacidad de cargar el maletín fácilmente. 
+                  p.texto-slider-tema4.mb-5 Puede ser del tamaño que se requiera con la condición de que se contengan todos los diferentes elementos que se necesitarán. El kit de emergencias en caso de ser necesario, puede distribuirse, varios maletines, asunto que dependerá del número de personas de cada familia. Se debe tener en cuenta que una emergencia puede ocurrir en cualquier instante y por lo tanto las mujeres y niños necesitan estar en capacidad de cargar el maletín fácilmente. 
 
                   .cajon.color-acento-botones.p-3
-                    p Las maletas deben ser ubicadas en lugares con fácil acceso, caso que en una emergencia el tiempo de acción es reducido. Además, no debe haber objetos en los bolsillos externos que se puedan caer. No se recomienda que sobresalgan cosas hacia arriba ni hacia los costados pues puede obstruir el paso. 
+                    p Las maletas deben ser ubicadas en lugares con fácil acceso, ya que en una emergencia el tiempo de acción es reducido. Además, no debe haber objetos en los bolsillos externos que se puedan caer. No se recomienda que sobresalgan cosas hacia arriba ni hacia los costados pues puede obstruir el paso. 
                     p.mb-0 De ser posible se recomienda que el material del que está hecha la maleta sea impermeable, para que mantenga todas las pertenencias secas en caso de estar en contacto con el agua.
 
                 .col-md-6
-                  p.texto-slider-tema4.mb-4 Existen maletines que cuentan con broches en la zona delantera en donde queda mejor asegurado. Así mismo, hay algunos que cuentan con sistema “Camelbak” en donde si tiene un compartimiento con agua y una manguera que sale para beber directamente.                 
+                  p.texto-slider-tema4.mb-4 Existen maletines especializados que ofrecen una mayor seguridad y comodidad para transportar objetos personales. Estos maletines cuentan con broches en la zona delantera para una mejor fijación y algunos modelos incluyen compartimentos para bolsas y sistemas de hidratación que permiten beber directamente.                
                   figure
                     img(src='@/assets/curso/temas/img1-slider-tema4.png', alt='').imagenes-slider-tema4
                     //figcaption Leyenda de la imagen
@@ -154,7 +154,7 @@
                   p.texto-slider-tema4 Los alimentos no perecederos son un elemento fundamental dentro del kit de emergencias, estos deben alcanzar para cubrir las necesidades de hasta 3 días. Los enlatados son los más recomendados junto con las barras energéticas. Los alimentos de las mascotas también deben ser incluidos en esta categoría.
 
                   .cajon.color-acento-botones.p-4
-                    p Las cenas selladas al vacío se han utilizado desde la primera guerra mundial, en las que cuenta con las tres comidas del día, divididas de manera equitativa y que pueden durar bastante tiempo almacenadas, esto permite ahorrar espacio que puede ser ocupado por otros objetos, además reduce el peso de la maleta lo cual facilita su carga y transporte.
+                    p Las cenas selladas al vacío se han utilizado desde la primera guerra mundial, pueden ser usadas para las tres comidas del día, divididas de manera equitativa y pueden durar bastante tiempo almacenadas, esto permite ahorrar espacio que puede ser ocupado por otros objetos, además reduce el peso de la maleta lo cual facilita su carga y transporte.
 
 
                 .col-md-6
@@ -251,7 +251,7 @@
                 .col-md-5.mb-4.mb-md-0
                   h4.texto-slider-tema4 Linterna
                   p.texto-slider-tema4 El suministro de energía se puede ser afectado en una situación de emergencia por lo que una linterna proporciona visibilidad en la noche y lugares oscuros. 
-                  p.texto-slider-tema4 Las linternas auto recargables se utilizan para que el abastecimiento de energía sea ilimitado, estas cuentan con un sistema de palanca con el cual permite recargar la batería de la linterna solo con unos cuantos movimientos de muñeca. 
+                  p.texto-slider-tema4 Las linternas auto recargables se utilizan para que el abastecimiento de energía sea ilimitado, estas cuentan con un sistema de palanca que permite recargar la batería de la linterna solo con unos cuantos movimientos de muñeca. 
 
                 .col-md-6
                   figure
@@ -263,7 +263,7 @@
                 .col-md-5.mb-4.mb-md-0
                   h4.texto-slider-tema4 Herramientas
                   p.texto-slider-tema4 Una navaja multiusos es la mejor herramienta ya que contiene varios servicios dentro de ella, tales como, tijeras, abrelatas, navaja, destornilladores, entre otras utilidades que serán necesarias dentro de una situación de emergencia. 
-                  p.texto-slider-tema4 Otras herramientas fundamentales son las brújulas, las cuales servirán en caso de desorientación o perdida en lugares no concurridos, lo cual facilitara la ubicación de los cuerpos de ayuda en un menor tiempo. 
+                  p.texto-slider-tema4 Otras herramientas fundamentales son las brújulas, las cuales servirán en caso de desorientación o pérdida en lugares no concurridos, lo cual facilitará la ubicación de los cuerpos de ayuda en un menor tiempo. 
 
 
                 .col-md-6

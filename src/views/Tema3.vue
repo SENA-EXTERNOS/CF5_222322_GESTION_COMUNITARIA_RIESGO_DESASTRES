@@ -106,7 +106,7 @@
                 .row(titulo="Información pública")
                   .col-12
                     p.texto-acordeon-tema3.mb-0 Los comunicados de prensa deben estar actualizados para informar del progreso del evento de emergencia.
-                    p.texto-acordeon-tema3.mb-0 Con la información recopilada se deben entregar informes tanto parciales como finales. los cuales se utilizaran para que la prensa y los diferentes medios de comunicación cuenten con información de primera mano, en la cual se detallen todos los daños en tanto a pérdidas humanas y de infraestructura que deje una situación de desastre, así se asegura que el proceso sea transparente en relación con las ayudas que deberán recibir las comunidades afectadas.
+                    p.texto-acordeon-tema3.mb-0 Con la información recopilada se deben entregar informes tanto parciales como finales, los cuales se utilizarán para que la prensa y los diferentes medios de comunicación cuenten con información de primera mano, en la cual se detallen todos los daños en tanto a pérdidas humanas y de infraestructura que deje una situación de desastre, así se asegura que el proceso sea transparente en relación con las ayudas que deberán recibir las comunidades afectadas.
                     p.texto-acordeon-tema3 La información pública a su vez se utilizará para realizar investigaciones que puedan determinar las causas puntuales de los eventos y poder emprender en ideas para proteger a las comunidades que se encuentren en zonas de alta vulnerabilidad y riesgo, que son los directamente afectados. 
                 
                 .row(titulo="Enlace")
@@ -135,7 +135,7 @@
             figure(data-aos="zoom-out")
                 img(src="@/assets/curso/temas/diagrama-pmu-tema3.png", alt="alt").img-diagrama-pmu-tema3
 
-    P.pt-5 En relación con el lugar donde se establezca un puesto de mando unificado, cabe decir que este deberá cumplir con algunos criterios importantes como:
+    P.pt-5 En relación con el lugar donde se establezca un Puesto de Mando Unificado, cabe decir que este deberá cumplir con algunos criterios importantes como:
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-10      
         img.img-a.img-t(data-aos="flip-up")(src="@/assets/curso/temas/1.png", alt="alt")

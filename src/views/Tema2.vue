@@ -103,9 +103,9 @@
 
             p(numero="2" titulo="Ayuda humanitaria de emergencias") Estas ayudas son entregadas por parte de la Unidad para las Víctimas a las poblaciones que previamente fueron incluidas en el Registro Único de Víctimas por parte de la entidad territorial. Dichas poblaciones se deberán encontrar dentro del primer año de desplazamiento, identificando un alto grado de necesidad con respecto a los componentes de la subsistencia mínima. 
 
-            p(numero="3" titulo="Atención humanitaria en transición") Se otorga directamente por la Unidad para las Vctimas a la población que haya sido víctima de desplazamiento forzado, el cual haya ocurrido en un término superior a un año y que, de acuerdo con el análisis de la situación actual, las carencias que presenten sean leves en los componentes de alojamiento temporal y/o alimentación. 
+            p(numero="3" titulo="Atención humanitaria en transición") Se otorga directamente por la Unidad para las Víctimas a la población que haya sido víctima de desplazamiento forzado, el cual haya ocurrido en un término superior a un año y que, de acuerdo con el análisis de la situación actual, las carencias que presenten sean leves en los componentes de alojamiento temporal y/o alimentación. 
 
-            p(numero="4" titulo="Ayuda de emergencia") Es el resultante de una situación de emergencia que haya sido provocada por el hombre o por una catástrofe natural. Esta ayuda se categorizara entre ayuda y servicios materiales de emergencia, ayuda alimentaria de emergencia y coordinación de los servicios de protección de la ayuda. 
+            p(numero="4" titulo="Ayuda de emergencia") Es el resultante de una situación de emergencia que haya sido provocada por el hombre o por una catástrofe natural. Esta ayuda se categorizará entre ayuda y servicios materiales de emergencia, ayuda alimentaria de emergencia y coordinación de los servicios de protección de la ayuda. 
 
             p(numero="5" titulo="Ayuda de construcción y rehabilitación") Son todas aquellas actuaciones que no son inmediatas porque tienen un enfoque a largo plazo, las cuales están orientadas a que el país receptor logre superar la crisis humanitaria. 
 
@@ -128,7 +128,7 @@
 
           .col-lg-8.my-3(data-aos="fade-left")
             p.text-white Tiene como principal objetivo el desarrollo de acciones encaminadas hacia el manejo de desastres, permitiendo proteger y atender de manera oportuna las necesidades de las personas que fueron afectadas por la emergencia, en cuanto a los procesos de asistencia humanitaria en situaciones básicas. Esta ayuda prestará las atenciones de salud y psicología que se necesiten en donde se protegerá la dignidad humana de las comunidades que fueron afectadas. 
-            p.text-white.mb-0 Las instituciones que se dediquen a prestar ayudas humanitarias, tienen la de finalidad de facilitar el proceso de respuesta humanitaria, asegurando que sea rápida y eficaz, en donde se cumplan con los estándares mínimos humanitarios y que se dé respuesta a las necesidades particulares de mujeres, hombres y niños por igual, respetando por encima de cualquier cosa los Derechos Humanos en donde se incluya a la comunidad receptora de la ayuda humanitaria.
+            p.text-white.mb-0 Las instituciones que se dediquen a prestar ayudas humanitarias, tienen la finalidad de facilitar el proceso de respuesta humanitaria, asegurando que sea rápida y eficaz, en donde se cumplan con los estándares mínimos humanitarios y que se dé respuesta a las necesidades particulares de mujeres, hombres y niños por igual, respetando por encima de cualquier cosa los Derechos Humanos en donde se incluya a la comunidad receptora de la ayuda humanitaria.
 
           .col-lg-4.my-3
             img.img-a.img-t(data-aos="fade-down-right")(src="@/assets/curso/temas/imagen-ayuda-human.png", alt="alt")
