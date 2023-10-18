@@ -209,6 +209,7 @@ export default {
     {
       referencia:
         'Organización Panamericana de la Salud. (2010). <i>Evaluación de daños y análisis de necesidades de salud en situaciones de desastre.</i>',
+      link: 'https://iris.paho.org/handle/10665.2/53822',
     },
   ],
   creditos: {
